@@ -1,0 +1,4 @@
+{"timestamp":"2025-01-01T10:00:00","level":"INFO","source":"auth","message":"login ok"}
+{"timestamp":"2025-01-01T10:05:00","level":"ERROR","source":"auth","message":"bad password"}
+{"timestamp":"2025-01-01T11:00:00","level":"WARNING","source":"billing","message":"slow query"}
+{"timestamp":"2025-01-01T12:00:00","level":"CRITICAL","source":"billing","message":"payment failed"}

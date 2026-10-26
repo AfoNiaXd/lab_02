@@ -1,0 +1,2 @@
+[console_scripts]
+streamstats = streamstats.__main__:main
