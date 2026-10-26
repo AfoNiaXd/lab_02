@@ -1,0 +1,69 @@
+# === Виртуальные окружения ===
+.venv/
+venv/
+env/
+ENV/
+.env
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# === Тестирование и покрытие ===
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+
+# === Типизация и линтеры ===
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.ruff_cache/
+.pytype/
+.pyre/
+
+# === Сборка пакета ===
+*.whl
+*.tar.gz
+pip-wheel-metadata/
+
+# === IDE и редакторы ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# === Jupyter (если пригодится) ===
+.ipynb_checkpoints/
+
+# === Логи и временные файлы ===
+*.log
+*.tmp
+*.bak
